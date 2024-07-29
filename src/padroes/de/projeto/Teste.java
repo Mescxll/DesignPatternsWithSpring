@@ -13,8 +13,6 @@ import strategy.Robo;
 public class Teste {
 public static void main(String[] args) {
 		
-		// Singleton
-		
 		SingletonLazy lazy = SingletonLazy.getInstancia();
 		System.out.println(lazy);
 		lazy = SingletonLazy.getInstancia();
@@ -30,8 +28,6 @@ public static void main(String[] args) {
 		lazyHolder = SingletonLazyHolder.getInstancia();
 		System.out.println(lazyHolder);
 		
-		// Strategy
-		
 		Comportamento defensivo = new ComportamentoDefensivo();
 		Comportamento normal = new ComportamentoNormal();
 		Comportamento agressivo = new ComportamentoAgressivo();
@@ -46,9 +42,7 @@ public static void main(String[] args) {
 		robo.mover();
 		robo.mover();
 		robo.mover();
-		
-		// Facade
-		
+
 		Facade facade = new Facade();
 		facade.migrarCliente("Venilton", "14801788");
 	}
