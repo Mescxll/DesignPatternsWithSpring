@@ -6,7 +6,7 @@ A produção do projeto em questão se limita ao uso do Framework Spring, mais e
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" /> ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ## Contribuição
-Se deseja melhorar o projeto de maneira a aprofundar o aprendizado sobre novas formas de se trabalhar a proposta Conta bancária em BackEnd Java, é possível executar as funções de Issues, Pull requests e Fork na plataforma do GitHub.
+Se deseja melhorar o projeto de maneira a aprofundar o aprendizado sobre novas formas de se trabalhar a proposta em BackEnd Java, é possível executar as funções de Issues, Pull requests e Fork na plataforma do GitHub.
 
 Saiba mais em: [Contribuições](https://docs.github.com/pt/get-started/exploring-projects-on-github/contributing-to-a-project)
 
